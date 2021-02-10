@@ -20,3 +20,7 @@
 
 
 \* Based on Daniel [Daniel Shifmman implementation](https://www.youtube.com/watch?v=BjoM9oKOAKY).
+
+## Perlin Waves
+
+![perlin-waves](https://user-images.githubusercontent.com/25326579/107500376-d93d8c80-6b74-11eb-93a8-60844d5a2cca.png)
